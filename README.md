@@ -77,3 +77,8 @@ I lists the username and password below.
       "class" : "org.forgerock.json.resource.SecurityContext",
       "authenticationId" : "user.0"
     }
+
+# Link
+
+* http://forgerock.com/products/open-identity-stack/openidm/
+* http://docs.forgerock.org/en/openidm/3.0.0/release-notes/index.html
